@@ -4,4 +4,6 @@ For this assignment, I refacted code on a webpage to ensure that it meets access
 
 https://vivianaarenas.github.io/Horiseon-HW-1/
 
+I don't know why my screenshot images look like that, but I gave it all I got, and that's all I got.
 
+Thank you.
